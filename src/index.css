@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.c1{
+  color: darkcyan;
+  background-color: lavender;
+}
+
+.c2{
+  border: 4px solid lightcoral;
+  border-radius: 4px;
+}

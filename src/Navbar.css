@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(222, 227, 233);
+
+}
+
+ul>li{
+    display: inline-block;
+}
+li>a{
+    display: inline-block;
+    padding: 14px 16px;
+    color: darkcyan;
+    font-size: 20px;
+    cursor: pointer;
+}
+li>a:hover{
+    background-color: darkgrey;
+    color: black;
+}
